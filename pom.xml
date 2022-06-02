@@ -11,6 +11,7 @@
 	<groupId>kg.TestTask</groupId>
 	<artifactId>TestTask</artifactId>
 	<version>0.0.1</version>
+	<packaging>jar</packaging>
 	<name>TestTask</name>
 	<description>Companion</description>
 
