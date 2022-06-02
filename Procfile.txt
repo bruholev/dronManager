@@ -1,0 +1,1 @@
+web: java -jar /target/TestTask-0.0.1.jar
